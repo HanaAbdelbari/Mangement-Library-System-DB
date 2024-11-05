@@ -1,7 +1,7 @@
 # Library Management System
 
 ## Overview
-The Library Management System (LMS) is a comprehensive application designed to manage the various aspects of library operations, including book inventory, member registration, and transaction management. This project utilizes SQL for database management and C++ for application development, providing a robust solution for efficient library management.
+The Library Management System (LMS) is a comprehensive application designed to manage the various aspects of library operations, including book inventory, member registration, and transaction management. This project utilizes SQL for database management for application development, providing a robust solution for efficient library management.
 
 ## Features
 - **User Management**: Register and manage library members.
@@ -12,5 +12,5 @@ The Library Management System (LMS) is a comprehensive application designed to m
 
 ## Tech Stack
 - **Database**: SQL
-- **Programming Language**: C++
+- **Programming Language**: C#
 - **Diagrams**: Includes UML diagrams for system design and architecture.
